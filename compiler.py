@@ -33,6 +33,12 @@ def parsecmd(line):
 	elif cmd == "pow":
 		variables[args[0]] **= value(args[1])
 	
+	elif cmd == "input":
+		variables[args[0]] = input()
+	
+	elif cmd == "print":
+		print(value(args[0]))
+	
 	elif "math" in libraries:
 		if cmd == "floor":
 			variables[args[0]]=math.floor(int(variables[args[0]]))
