@@ -5,6 +5,9 @@
 Q: What is PSC?
 A: PSC is a basic programming language focused on doing math with syntax based off of C and Assembly.
 
+Q: is psc hard or easy?
+A: PSC is pretty easy if you are experienced with coding, but making complex programs are hard.
+
 *you can send more questions [here](https://forms.gle/nUi3Eqe7LsJmpiSU6)*
 
 ## PSC SYNTAX + EXAMPLES
