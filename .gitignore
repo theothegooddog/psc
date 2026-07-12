@@ -1,2 +1,4 @@
 #launch.json folder
 .vscode/
+#all psc files
+*.psc
